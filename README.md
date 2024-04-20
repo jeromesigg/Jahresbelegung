@@ -38,3 +38,6 @@ Du kannst mit Ctrl + Shift + D die aktive Zeile löschen, falls du eine Person a
 | Datum           	        | Änderungen  		| 
 |---------------------------|-------------------|
 | 26.03.2024	|Neues Makro um Belegung zu erstellen und Person zu entfernen.                 |
+|14.04.2024	    |Diagramm im Tabblatt Total_Auslastung|
+|20.04.2024	    |Korrektur in Kinderzahlen, Babies werden nach vollendetem 18 Lebensmonat als Kinder umgerechnet.|
+
