@@ -16,6 +16,7 @@ Die Datei beinhaltet vier Makros, welche die Bedienung vereinfachen:
 | Person_Hinzufuegen	    |`Ctrl + Shift + N` | Fügt in der Kinder-Tabelle eine neue Zeile unterhalb der ausgewählten Zeile ein. |
 | Person_Entfernen		    |`Ctrl + Shift + D` | Löscht die aktive Zeile. |
 | Monat_Fuellen	            |`Ctrl + q`			| Ergänzt alle Formel, falls mal eine bei der Monatsübersicht gelöscht wird. |
+| Sortieren                 | `Ctrl + Shift + S`| Öffnet das Sortierfenster für die markierten Zeilen |
 
 ### Jahresbelegung_erstellen			
 
@@ -33,11 +34,16 @@ Du kannst in den Gruppenblätter mit Ctrl + Shift + N eine neue Zeile einfügen.
 
 Du kannst mit Ctrl + Shift + D die aktive Zeile löschen, falls du eine Person aus der Liste entfernen möchtest
 
+### Sortieren
+
+Du kannst mit Ctrl + Shift + S die aktive Zeile Sortieren, dafür öffnet sich das Sortierfenster, in welchem du die gewünschte Spalte definieren kannst.
+
 ## Änderungen	
 
 | Datum           	        | Änderungen  		| 
 |---------------------------|-------------------|
-| 26.03.2024	|Neues Makro um Belegung zu erstellen und Person zu entfernen.                 |
-|14.04.2024	    |Diagramm im Tabblatt Total_Auslastung|
+|31.05.2024	    |Neues Makro zum Sortieren / Makros entfernen und setzen wieder Passwort / Default Passwort definiert.|
 |20.04.2024	    |Korrektur in Kinderzahlen, Babies werden nach vollendetem 18 Lebensmonat als Kinder umgerechnet.|
+|14.04.2024	    |Diagramm im Tabblatt Total_Auslastung|
+| 26.03.2024	|Neues Makro um Belegung zu erstellen und Person zu entfernen.                 |
 
