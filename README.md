@@ -42,6 +42,7 @@ Du kannst mit Ctrl + Shift + S die aktive Zeile Sortieren, dafür öffnet sich d
 
 | Datum           	        | Änderungen  		| 
 |---------------------------|-------------------|
+|01.10.2024	    |Ein- und Austritte können definiert werden, bei Austritten wird die Belegung entfernt.|
 |31.05.2024	    |Neues Makro zum Sortieren / Makros entfernen und setzen wieder Passwort / Default Passwort definiert.|
 |20.04.2024	    |Korrektur in Kinderzahlen, Babies werden nach vollendetem 18 Lebensmonat als Kinder umgerechnet.|
 |14.04.2024	    |Diagramm im Tabblatt Total_Auslastung|
